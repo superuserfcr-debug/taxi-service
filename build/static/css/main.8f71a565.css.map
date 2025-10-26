@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.8f71a565.css","mappings":"AAAA,cAAc,CAAE,oBAAoB,CAAE,mBAAmB,CAAE,MAAO,sBAAsB,CAAE,qBAAsB,CAAE,KAAM,kCAAqC","sources":["styles.css"],"sourcesContent":["@tailwind base; @tailwind components; @tailwind utilities; :root{ --brand-yellow:#FFD400; --brand-black:#0b0b0b } body{ font-family:Inter, Arial, sans-serif }"],"names":[],"sourceRoot":""}
